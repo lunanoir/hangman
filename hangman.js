@@ -91,9 +91,9 @@ window.onload = function () {
 
   play = function () {
     choices = [
-        ["everton", "liverpool", "swansea", "chelsea", "hull", "manchester-city", "newcastle-united"],
-        ["alien", "dirty-harry", "gladiator", "nemo", "jaws"],
-        ["manchester", "milan", "madrid", "amsterdam", "prague"]
+        ["sushi", "wherever", "candles", "flex", "hustle", "monster", "rhythm"],
+        ["alien", "captain", "gladiator", "nemo", "jaws"],
+        ["manchester", "rejuvinate", "avocados", "bookshelf", "prague"]
     ];
 
     chosenCategory = choices[Math.floor(Math.random() * choices.length)];

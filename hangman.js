@@ -52,6 +52,7 @@ window.onload = function () {
     }
   }
   
+  
    comments = function () {
     showLives.innerHTML = "You have " + lives + " lives";
     if (lives < 1) {
